@@ -1,12 +1,15 @@
 # Link collection
-For my media / graphic design studies 
+For my media / graphic design studies
 
 ### Stock Photos
 
+#### Top tier
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
-- [StockSnap.io](https://stocksnap.io/)
 - [Burst](https://burst.shopify.com/)
+
+#### The others
+- [StockSnap.io](https://stocksnap.io/)
 - [Gratisography](https://gratisography.com/)
 - [Flickr Commons](https://www.flickr.com/commons)
 - [Adobe Stock (Free collection)](https://stock.adobe.com/ca/free)
@@ -15,12 +18,18 @@ For my media / graphic design studies
 
 ### Fonts
 
-- [Free Fonts](https://www.behance.net/collection/35882773/Free-Fonts) *(my Behance moodboard)*
+#### Top tier
+- [Free Fonts - Behance](https://www.behance.net/collection/35882773/Free-Fonts) *(my personal moodboard)*
+- [Font Squirrel](https://www.fontsquirrel.com/)
 - [Google Fonts](https://fonts.google.com/)
-- [Adobe Fonts](https://fonts.adobe.com/) *(not free, needs Adobe login and rights to use the fonts)*
-- [Fontshare](https://www.fontshare.com/)
-- [Use & Modify](https://usemodify.com/)
-- [Raphaël Bastide / libre-foundries · GitLab](https://gitlab.com/raphaelbastide/libre-foundries)
+- [Adobe Fonts](https://fonts.adobe.com/) *(not free, needs Adobe login and license to use the fonts)*
+- [Fontshare](https://www.fontshare.com/) *(fountry)*
+- [Use & Modify](https://usemodify.com/) *(fountry)*
+- [Raphaël Bastide / libre-foundries · GitLab](https://gitlab.com/raphaelbastide/libre-foundries) *(collection of links to FOSS typeface fountries)*
+
+#### The others
+- [Open Font Library](https://gitlab.com/raphaelbastide/libre-foundries)
+- [Rawpixel (Free fonts)](https://www.rawpixel.com/topic/283/open-source-fonts)
 
 ### Vectors
 
