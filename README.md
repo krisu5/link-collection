@@ -1,4 +1,4 @@
-# Link collection
+# Design resources
 For my media / graphic design studies
 
 ### Stock Photos
