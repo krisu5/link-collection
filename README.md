@@ -28,7 +28,7 @@ For my media / graphic design studies
 - [Raphaël Bastide / libre-foundries · GitLab](https://gitlab.com/raphaelbastide/libre-foundries) *(collection of links to FOSS typeface fountries)*
 
 #### The others
-- [Open Font Library](https://gitlab.com/raphaelbastide/libre-foundries)
+- [Open Font Library](https://fontlibrary.org/)
 - [Rawpixel (Free fonts)](https://www.rawpixel.com/topic/283/open-source-fonts)
 
 ### Vectors
