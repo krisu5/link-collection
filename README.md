@@ -39,7 +39,8 @@ For my media / graphic design studies
 
 ### Icons
 
-`[empty]`
+- [Awesome Icons](https://github.com/vkarampinis/awesome-icons) *(part of Awesome lists)*
+- ["Icons" GitHub list](https://github.com/stars/krisu5/lists/icons) *(My personal stars list)*
 
 ### Learning
 
