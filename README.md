@@ -31,6 +31,7 @@ For my media / graphic design studies
 #### The others
 - [Open Font Library](https://fontlibrary.org/)
 - [Rawpixel (Free fonts)](https://www.rawpixel.com/topic/283/open-source-fonts) *(needs login)*
+- [DaFont](https://www.dafont.com/) *(highly not recommended)*
 
 ### Vectors
 
