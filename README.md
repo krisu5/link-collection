@@ -29,3 +29,7 @@ For my media / graphic design studies
 ### Icons
 
 `[empty]`
+
+### Learning
+
+- [Method of Action - Games](https://method.ac/)
