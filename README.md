@@ -24,7 +24,7 @@ For my media / graphic design studies
 - [Google Fonts](https://fonts.google.com/)
 - [Adobe Fonts](https://fonts.adobe.com/) *(not free, needs Adobe login and rights to use the fonts, availability varies)*
 - [Fontshare](https://www.fontshare.com/) *(fountry)*
-- [Use & Modify](https://usemodify.com/) *(fountry)*
+- [Use & Modify](https://usemodify.com/)
 - [Raphaël Bastide / libre-foundries · GitLab](https://gitlab.com/raphaelbastide/libre-foundries) *(collection of links to FOSS typeface fountries)*
 
 #### The others
