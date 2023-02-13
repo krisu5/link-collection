@@ -9,11 +9,12 @@ For my media / graphic design studies
 - [Burst](https://burst.shopify.com/)
 
 #### The others
+- [Pixabay](https://pixabay.com/) *(needs login for highest resolution downloads)*
 - [StockSnap.io](https://stocksnap.io/)
 - [Gratisography](https://gratisography.com/)
 - [Flickr Commons](https://www.flickr.com/commons)
 - [Adobe Stock (Free collection)](https://stock.adobe.com/ca/free)
-- [rawpixel (Free)](https://www.rawpixel.com/free-images) *(needs login)*
+- [rawpixel (Free)](https://www.rawpixel.com/free-images) *(needs login, 5 downloads / day for free account)*
 - [rawpixel (Public Domain)](https://www.rawpixel.com/public-domain) *(needs login)*
 
 ### Fonts
