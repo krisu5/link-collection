@@ -15,7 +15,7 @@ For my media / graphic design studies
 
 ### Fonts
 
-- [Free Fonts](https://www.behance.net/collection/35882773/Free-Fonts)
+- [Free Fonts](https://www.behance.net/collection/35882773/Free-Fonts) *(my Behance moodboard)*
 - [Google Fonts](https://fonts.google.com/)
 - [Adobe Fonts](https://fonts.adobe.com/) *(not free, needs Adobe login and rights to use the fonts)*
 - [Fontshare](https://www.fontshare.com/)
