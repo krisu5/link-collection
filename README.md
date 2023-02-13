@@ -13,8 +13,8 @@ For my media / graphic design studies
 - [Gratisography](https://gratisography.com/)
 - [Flickr Commons](https://www.flickr.com/commons)
 - [Adobe Stock (Free collection)](https://stock.adobe.com/ca/free)
-- [rawpixel (Free)](https://www.rawpixel.com/free-images)
-- [rawpixel (Public Domain)](https://www.rawpixel.com/public-domain)
+- [rawpixel (Free)](https://www.rawpixel.com/free-images) *(needs login)*
+- [rawpixel (Public Domain)](https://www.rawpixel.com/public-domain) *(needs login)*
 
 ### Fonts
 
@@ -29,7 +29,7 @@ For my media / graphic design studies
 
 #### The others
 - [Open Font Library](https://fontlibrary.org/)
-- [Rawpixel (Free fonts)](https://www.rawpixel.com/topic/283/open-source-fonts)
+- [Rawpixel (Free fonts)](https://www.rawpixel.com/topic/283/open-source-fonts) *(needs login)*
 
 ### Vectors
 
