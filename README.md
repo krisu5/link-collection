@@ -21,7 +21,7 @@ For my media / graphic design studies
 
 ### Top tier
 - [Adobe Fonts](https://fonts.adobe.com/) *(**not free**, needs Adobe login, Creative Cloud app and rights to use the fonts, availability varies)*
-- [ANRT](https://anrt-nancy.fr/anrt-22/en/fonts)
+- [ANRT](https://anrt-nancy.fr/anrt-22/en/fonts) *(libre fountry)*
 - [BADASS LIBRE FONTS BY WOMXN](https://www.design-research.be/by-womxn/)
 - [Collletttivo](https://www.collletttivo.it/) *(libre fountry)*
 - [Death of Typography](https://deathoftypography.com/typefaces/) *(libre fountry)*
