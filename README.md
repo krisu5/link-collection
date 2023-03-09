@@ -54,11 +54,9 @@ For my media / graphic design studies
 
 ## Icons
 
-- ["Icons" GitHub list](https://github.com/stars/krisu5/lists/icons) *(My personal stars list)*
+- ["Icons" GitHub list](https://github.com/stars/krisu5/lists/icons) *(my personal stars list)*
 - [vkarampinis / awesome-icons](https://github.com/vkarampinis/awesome-icons) *(part of [Awesome lists](https://github.com/sindresorhus/awesome))*
 
 ## Learning
 
-- [Method of Action - Games](https://method.ac/)
-
-## Lists
+- [Method of Action](https://method.ac/) *(games for learning design skills)*
