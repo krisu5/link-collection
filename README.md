@@ -1,5 +1,5 @@
-# Design resources
-For my media / graphic design studies
+# Media study resources
+Useful links for (my) media / graphic design studies
 
 ## Stock Photos
 
