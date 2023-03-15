@@ -5,7 +5,7 @@ Useful links for (my) media / graphic design studies
 
 ### Top tier
 - [Burst](https://burst.shopify.com/)
-  - **License:** Sometimes CC0[^1] and sometimes with their own [license](https://burst.shopify.com/legal/terms) (read the "4. Using Content" section).
+  - **License:** <https://burst.shopify.com/legal/terms>, Sometimes CC0[^1] and sometimes with their own license (read the "4. Using Content" section).
 - [Pexels](https://www.pexels.com/)
   - **License:** <https://www.pexels.com/license/>, pretty lenient (please check the "What is not allowed" section though just in case).
 - [Unsplash](https://unsplash.com/)
