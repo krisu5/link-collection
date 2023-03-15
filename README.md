@@ -71,4 +71,4 @@ Useful links for (my) media / graphic design studies
 
 - [Method of Action](https://method.ac/) *(games for learning design skills)*
 
-[^1]: https://creativecommons.org/publicdomain/zero/1.0/
+[^1]: <https://creativecommons.org/publicdomain/zero/1.0/>, [public domain](https://simple.wikipedia.org/wiki/Public_domain) license.
