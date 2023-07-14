@@ -1,3 +1,66 @@
+<!--
+PHOTOS:
+https://morguefile.com/ (needs login to download)
+https://freenaturestock.com/
+https://kaboompics.com/
+https://magdeleine.co/browse/
+
+https://jaymantri.com/
+https://moveast.me/
+https://www.splitshire.com/
+
+https://artvee.com/
+
+https://www.designbombs.com/free-stock-photos/
+https://blogs.ntu.edu.sg/openimagecollections/
+
+TYPEFACES
+https://www.poussetafonte.com/
+https://gitlab.com/velvetyne , https://fontesk.com/designer/velvetyne/ , https://www.1001fonts.com/users/velvetyne/
+https://noirblancrouge.com/category-font/open-custom_fonts/ , https://github.com/noirblancrouge
+https://kroje.org/en/
+
+https://www.awwwards.com/awwwards/collections/free-fonts/
+https://pimpmytype.com/font-license/free/
+https://pimpmytype.com/free-quality-fonts/
+https://www.type.fan/free-fonts
+https://beautifulwebtype.com/
+https://www.fontpair.co/
+
+INSPIRATION
+https://www.typographicposters.com/archive
+https://brutalistwebsites.com/
+https://www.typewolf.com/
+https://trendlist.org/
+https://gutenbergman.com/
+
+LEARNING
+http://typogui.de/
+https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
+https://bjango.com/articles/opticaladjustments/
+https://medium.muz.li/optical-effects-9fca82b4cd9a ➜ https://archive.ph/Ar3Wb ➜ http://web.archive.org/web/20230213175335/https://medium.muz.li/optical-effects-9fca82b4cd9a?gi=527e0f118d4e
+https://blog.prototypr.io/11-optical-illusions-found-in-visual-design-295e7ae211b9 ➜ https://archive.ph/IQDzS ➜ http://web.archive.org/web/20230213175513/https://blog.prototypr.io/11-optical-illusions-found-in-visual-design-295e7ae211b9?gi=93b9896148ea
+
+VECTORS
+https://shapes.framer.website/
+
+UNCATEGORIED
+https://culturehustle.com/products/freetone ➜ https://culturehustle.com/a/downloads/-/d72d64b421f0bb0a/ff36f77c6684a31e
+https://fontsarena.com/licenses-explained/ ➜ https://archive.ph/7vuUE ➜ http://web.archive.org/web/20220624180753/https://fontsarena.com/licenses-explained/
+https://www.creativelivesinprogress.com/
+https://dribbble.com/resources/creative-process
+https://www.typography.com/blog/typographic-doubletakes
+https://cargo.site/Fonts
+https://avid.miraheze.org/wiki/Main_Page
+https://eycndy.com/
+https://soundcloud.com/nocopyrightsounds , https://www.youtube.com/user/nocopyrightsounds , https://ncs.io
+https://www.free-stock-music.com
+https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-love/
+https://neuronthemes.com/best-free-block-fonts-in-2021/
+https://pinspiry.com/category/free-resources/fonts/
+
+-->
+
 # Media study resources
 Useful links for (my) media / graphic design studies
 
@@ -8,6 +71,8 @@ Useful links for (my) media / graphic design studies
   - **License:** <https://burst.shopify.com/legal/terms>, sometimes CC0[^1] and sometimes with their own license (read the "4. Using Content" section).
 - [Pexels](https://www.pexels.com/)
   - **License:** <https://www.pexels.com/license/>, pretty lenient (please check the "What is not allowed" section though just in case).
+- [Pixabay](https://pixabay.com/) *(needs login for highest resolution downloads)*
+  - **License:** <https://pixabay.com/service/license/>, pretty lenient (please check the "What is not allowed?" section though just in case).
 - [Unsplash](https://unsplash.com/)
   - **License:** <https://unsplash.com/license>, pretty close to CC0[^1] that only limits to "not selling without significant modification" and "compiling photos from Unsplash to replicate a similar or competing service" (don't trust my word only, please check the license yourself).
 
@@ -18,8 +83,6 @@ Useful links for (my) media / graphic design studies
   - **License:** depends on the category, read the right side info ("Public Domain Dedication" and "Public Domain Mark" are the safest).
 - [Gratisography](https://gratisography.com/)
   - **License:** <https://gratisography.com/license/>, "Almost anything you can think of" (read the "What you CAN’T do with these images" section though).
-- [Pixabay](https://pixabay.com/) *(needs login for highest resolution downloads)*
-  - **License:** <https://pixabay.com/service/license/>, pretty lenient (please check the "What is not allowed?" section though just in case).
 - [rawpixel (Free)](https://www.rawpixel.com/free-images) *(needs login, 5 downloads / day for free account)*
   - **License:** <https://www.rawpixel.com/services/licenses>, either "Royalty-Free commercial use license" or CC0[^1].
 - [rawpixel (Public Domain)](https://www.rawpixel.com/public-domain) *(needs login)*
