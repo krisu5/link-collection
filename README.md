@@ -101,7 +101,6 @@ Useful links for (my) media / graphic design studies
 - [Death of Typography](https://deathoftypography.com/typefaces/) *(libre fountry)*
 - [Etcetera Type Co](https://www.etceteratype.co/) *(libre fountry)*
 - [Fond de riz](https://fonderiz.fr/)
-- [Font Brief](https://www.fontbrief.com/fontbrief)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontshare](https://www.fontshare.com/) *(libre fountry)*
 - [Free Fonts - Behance](https://www.behance.net/collection/35882773/Free-Fonts) *(my personal moodboard)*
