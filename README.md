@@ -26,6 +26,11 @@ https://pimpmytype.com/free-quality-fonts/
 https://www.type.fan/free-fonts
 https://beautifulwebtype.com/
 https://www.fontpair.co/
+https://www.freefaces.gallery
+https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-love/
+https://neuronthemes.com/best-free-block-fonts-in-2021/
+https://pinspiry.com/category/free-resources/fonts/
+https://cargo.site/Fonts
 
 INSPIRATION
 https://www.typographicposters.com/archive
@@ -50,14 +55,10 @@ https://fontsarena.com/licenses-explained/ ➜ https://archive.ph/7vuUE ➜ http
 https://www.creativelivesinprogress.com/
 https://dribbble.com/resources/creative-process
 https://www.typography.com/blog/typographic-doubletakes
-https://cargo.site/Fonts
 https://avid.miraheze.org/wiki/Main_Page
 https://eycndy.com/
 https://soundcloud.com/nocopyrightsounds , https://www.youtube.com/user/nocopyrightsounds , https://ncs.io
 https://www.free-stock-music.com
-https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-love/
-https://neuronthemes.com/best-free-block-fonts-in-2021/
-https://pinspiry.com/category/free-resources/fonts/
 
 -->
 
