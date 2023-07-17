@@ -31,6 +31,7 @@ https://www.webdesignerdepot.com/2020/08/17-open-source-fonts-youll-actually-lov
 https://neuronthemes.com/best-free-block-fonts-in-2021/
 https://pinspiry.com/category/free-resources/fonts/
 https://cargo.site/Fonts
+https://itch.io/game-assets/free/tag-fonts
 
 INSPIRATION
 https://www.typographicposters.com/archive
