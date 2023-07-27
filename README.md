@@ -32,6 +32,7 @@ https://neuronthemes.com/best-free-block-fonts-in-2021/
 https://pinspiry.com/category/free-resources/fonts/
 https://cargo.site/Fonts
 https://itch.io/game-assets/free/tag-fonts
+https://github.com/google/fonts/labels/I%20New%20Font
 
 INSPIRATION
 https://www.typographicposters.com/archive
