@@ -33,6 +33,7 @@ https://pinspiry.com/category/free-resources/fonts/
 https://cargo.site/Fonts
 https://itch.io/game-assets/free/tag-fonts
 https://github.com/google/fonts/labels/I%20New%20Font
+https://typography.pablolarah.cl/
 
 INSPIRATION
 https://www.typographicposters.com/archive
