@@ -15,15 +15,22 @@ https://www.designbombs.com/free-stock-photos/
 https://blogs.ntu.edu.sg/openimagecollections/
 
 TYPEFACES
-https://www.poussetafonte.com/
 https://gitlab.com/velvetyne , https://fontesk.com/designer/velvetyne/ , https://www.1001fonts.com/users/velvetyne/
 https://noirblancrouge.com/category-font/open-custom_fonts/ , https://github.com/noirblancrouge
 https://kroje.org/en/
+https://typotheque.genderfluid.space/index.html
 
+student use / limited free fonts:
+https://www.atipofoundry.com/
+https://www.typeforward.com/
+https://off-type.com/
+https://shriftovik.com/
+https://www.typeforward.com/
+
+https://www.poussetafonte.com/
 https://www.awwwards.com/awwwards/collections/free-fonts/
 https://pimpmytype.com/font-license/free/
 https://pimpmytype.com/free-quality-fonts/
-https://www.type.fan/free-fonts
 https://beautifulwebtype.com/
 https://www.fontpair.co/
 https://www.freefaces.gallery
@@ -34,6 +41,7 @@ https://cargo.site/Fonts
 https://itch.io/game-assets/free/tag-fonts
 https://github.com/google/fonts/labels/I%20New%20Font
 https://typography.pablolarah.cl/
+https://www.paratype.com/catalog/fontoscope?freefonts=true&sortType=bestsellers
 
 INSPIRATION
 https://www.typographicposters.com/archive
@@ -62,6 +70,7 @@ https://avid.miraheze.org/wiki/Main_Page
 https://eycndy.com/
 https://soundcloud.com/nocopyrightsounds , https://www.youtube.com/user/nocopyrightsounds , https://ncs.io
 https://www.free-stock-music.com
+https://anthonyhobday.com/sideprojects/saferules/
 
 -->
 
