@@ -1,5 +1,5 @@
 <!--
-PHOTOS:
+PHOTOS
 https://morguefile.com/ (needs login to download)
 https://freenaturestock.com/
 https://kaboompics.com/
@@ -26,6 +26,7 @@ https://www.typeforward.com/
 https://off-type.com/
 https://shriftovik.com/
 https://www.typeforward.com/
+https://www.losttype.com/browse/
 
 https://www.poussetafonte.com/
 https://www.awwwards.com/awwwards/collections/free-fonts/
@@ -49,6 +50,9 @@ https://brutalistwebsites.com/
 https://www.typewolf.com/
 https://trendlist.org/
 https://gutenbergman.com/
+https://www.designspiration.com/
+https://abduzeedo.com/
+https://designeverywhere.co/
 
 LEARNING
 http://typogui.de/
@@ -59,6 +63,11 @@ https://blog.prototypr.io/11-optical-illusions-found-in-visual-design-295e7ae211
 
 VECTORS
 https://shapes.framer.website/
+https://loosedrawing.com/
+
+ICONS
+https://iconhub.io/
+https://thenounproject.com/
 
 UNCATEGORIED
 https://culturehustle.com/products/freetone ➜ https://culturehustle.com/a/downloads/-/d72d64b421f0bb0a/ff36f77c6684a31e
@@ -71,6 +80,7 @@ https://eycndy.com/
 https://soundcloud.com/nocopyrightsounds , https://www.youtube.com/user/nocopyrightsounds , https://ncs.io
 https://www.free-stock-music.com
 https://anthonyhobday.com/sideprojects/saferules/
+https://cari.institute/aesthetics
 
 -->
 
